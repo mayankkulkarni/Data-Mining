@@ -24,4 +24,3 @@ ALS is built in algorithm in Apache Spark's ML library - MLLib.
 
 I used mean imputation to handle data sparsity. 
 Possible improvements would be to add case amplification in order to reduce noise and hence improve RMSE.
-
