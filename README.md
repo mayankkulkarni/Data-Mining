@@ -1,5 +1,5 @@
 # Data-Mining
-Recommendation Systems, frequent itemsets and social network analysis built using Python and Apache Spark<br>
+Recommendation Systems built using Python and Apache Spark<br>
 <br>
 RECOMMENDATION SYSTEMS<br>
 Recommendation Systems built using "ml-latest-small" Movielens dataset for user movie pairs.
